@@ -36,4 +36,11 @@ The project uses pre-trained models from the **Timm library**, which includes ar
 - **VGG16**
 - **VGG19**
 
+# Requirements
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
 
