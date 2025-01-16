@@ -63,9 +63,8 @@ criterion = nn.CrossEntropyLoss()
 def train__model(model, train_loader, valid_loader, num_epochs, initial_epochs):
 
     optimizer = Adamax(model.parameters(), lr=lr)
-    ##optimizer = SGD(model.parameters(), lr=lr, momentum=0.9)
-
-    scheduler = lr_scheduler.StepLR(optimizer, step_size=5)
+    # optimizer = SGD(model.parameters(), lr=lr, momentum=0.9)
+    scheduler = lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.1)
 
     # Lists to store metrics
     train_losses = []
