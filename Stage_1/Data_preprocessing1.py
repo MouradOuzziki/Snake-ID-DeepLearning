@@ -33,7 +33,7 @@ val_metadata = metadata[metadata['subset'] == 'val']
 HEIGHT = 224
 WIDTH = 224
 N_CLASSES = 772
-BATCH_SIZE = 128
+BATCH_SIZE = 64
 num_workers = 8
 
 class TrainDataset(Dataset):
