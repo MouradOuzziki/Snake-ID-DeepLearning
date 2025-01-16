@@ -1,0 +1,11 @@
+torch
+torchvision
+timm  
+numpy
+gradio
+albumentations
+sklearn
+matplotlib
+tqdm
+panads
+PIL
