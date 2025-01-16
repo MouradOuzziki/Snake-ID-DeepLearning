@@ -7,12 +7,7 @@ This repository implements a deep learning-based solution for classifying snake 
 - [Overview](#overview)
 - [Datasets](#datasets)
 - [Model Architecture](#model-architecture)
-- [Training Procedure](#training-procedure)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Overview
 
