@@ -35,7 +35,7 @@ label_list = label_binarizer.fit_transform(label_list)
 HEIGHT = 224
 WIDTH = 224
 
-batch_size=120
+batch_size=64
 
 class CustomDataset(Dataset):
     def __init__(self, image_list, label_list, transform=None):
