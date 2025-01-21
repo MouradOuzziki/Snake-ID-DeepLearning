@@ -4,7 +4,7 @@ This repository implements a deep learning-based solution for classifying snake 
 
 ## Link to Our Paper
 For more details about the methodology and results, please refer to our published paper:  
-[**"Deep Learning-Based Snake Identification for Enhanced Snakebite Management"**](https://www.mdpi.com/2673-2688/6/2/21)
+[**Deep Learning-Based Snake Identification for Enhanced Snakebite Management**](https://www.mdpi.com/2673-2688/6/2/21)
 
 
 ## Table of Contents
