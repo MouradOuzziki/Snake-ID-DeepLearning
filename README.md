@@ -2,6 +2,11 @@
 ![Alt text](https://github.com/MouradOuzziki/Snake-ID-DeepLearning/blob/766d280510e95e1458ae545664bd3829174563d2/image%20of%20snake.png)
 This repository implements a deep learning-based solution for classifying snake species using transfer learning and fine-tuning. The model is trained on a combination of global datasets SnakeCLEF 2021 and a localized dataset of Moroccan snake species. The goal is to build an accurate and efficient model for snake identification, which can be applied in various real-world applications, such as biodiversity research, conservation efforts, and educational tools.
 
+## Link to Our Paper
+For more details about the methodology and results, please refer to our published paper:  
+[**"Deep Learning-Based Snake Identification for Enhanced Snakebite Management"**]([<insert-your-paper-link-here>](https://www.mdpi.com/2673-2688/6/2/21))
+
+
 ## Table of Contents
 
 - [Overview](#overview)
