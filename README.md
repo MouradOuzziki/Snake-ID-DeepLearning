@@ -6,6 +6,21 @@ This repository implements a deep learning-based solution for classifying snake 
 For more details about the methodology and results, please refer to our published paper:  
 [**Deep Learning-Based Snake Identification for Enhanced Snakebite Management**](https://www.mdpi.com/2673-2688/6/2/21)
 
+# Citation
+Consider giving this repository a star and cite our paper in your publications if it helps your research.
+```
+@article{iguernane2025deep,
+  title={Deep Learning-Based Snake Species Identification for Enhanced Snakebite Management},
+  author={Iguernane, Mohamed and Ouzziki, Mourad and Es-Saady, Youssef and El Hajji, Mohamed  and Lansari, Aziza and Bouazza, Abdellah},
+  journal={AI},
+  volume={6},
+  number={2},
+  pages={21},
+  year={2025},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
+
 
 ## Table of Contents
 
