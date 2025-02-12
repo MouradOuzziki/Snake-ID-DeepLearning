@@ -48,13 +48,7 @@ The model is trained in two stages:
 
 The global dataset is used for the initial training, while the local dataset is used for fine-tuning the model to adapt to the unique characteristics of Moroccan snake species.
 
-## Model Architecture
 
-The project uses pre-trained models from the **Timm library**, which includes architectures such as:
-
-- **EfficientNet B0**
-- **VGG16**
-- **VGG19**
 
 # Requirements
 
